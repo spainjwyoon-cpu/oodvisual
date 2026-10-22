@@ -38,7 +38,9 @@ img{display:block;max-width:100%}
 .pre{white-space:pre-line}
 .about .motto{margin-top:24px;color:var(--gold);font-size:17px}
 .hero .hero-sub{margin-top:6px;font-size:14px;letter-spacing:1px;color:var(--mute);opacity:1}
-.handle{margin:14px 0 0;color:var(--mute);font-size:15px}
+.handle{margin:18px 0 0}
+.contact .handle a{font-size:16px;color:var(--ink);border-bottom-color:var(--line)}
+.contact .handle a:hover{border-bottom-color:var(--gold)}
 .contact a{display:inline-block;font-size:clamp(20px,3vw,30px);color:var(--gold);text-decoration:none;border-bottom:1px solid currentColor}
 .contact small{display:block;color:var(--mute);margin-bottom:8px;font-size:13px}
 

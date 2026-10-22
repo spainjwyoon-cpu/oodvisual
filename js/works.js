@@ -41,5 +41,6 @@ window.SITE = {
   fields: "AI filmmaking · Short Films · Drama · Visual Stories",
   motto: "조금 낯설고, 조금 아름다운 이야기들.\nOut Of the Ordinary.",
   handle: "@oodvisual",
+  youtube: "https://www.youtube.com/@oodvisual",
   email: "oodvisual@gmail.com"
 };
