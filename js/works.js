@@ -36,7 +36,10 @@ window.WORKS = [
 
 window.SITE = {
   name: "ood.visual",
-  tagline: "AI로 노래와 장면을 만들고, 이야기로 엮습니다.",
-  about: "ood.visual은 AI 음악·이미지·영상 도구로 한 편의 이야기를 만드는 크리에이터예요. 만든 작품과 함께, 어떻게 만들었는지도 공개해요.",
+  tagline: "Stories imagined, created with AI.",
+  about: "AI를 활용해 다양한 이야기를 영상으로 만듭니다.\n드라마, 단편영화, 시네마틱 영상, 숏폼부터\n현실에는 없던 장면과 새로운 세계까지.",
+  fields: "AI filmmaking · Short Films · Drama · Visual Stories",
+  motto: "조금 낯설고, 조금 아름다운 이야기들.\nOut Of the Ordinary.",
+  handle: "@oodvisual",
   email: "oodvisual@gmail.com"
 };
