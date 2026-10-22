@@ -1,6 +1,6 @@
 # ood.visual 포트폴리오
 
-공개 주소: https://spainjwyoon-cpu.github.io/oodvisual/
+공개 주소: https://oodvisual.vercel.app (main 에 푸시하면 Vercel이 자동 배포)
 
 ## 새 작품 추가하는 법 (3단계)
 
@@ -10,7 +10,7 @@
    - `cover`, `gallery[].src`: `works/<id>/파일이름.jpg`
    - 영상이 있으면 `video: "https://www.youtube.com/embed/영상ID"` 한 줄 추가
    - 가이드 같은 별도 페이지는 `works/<id>/guide/index.html`로 넣고 `links`에 연결
-3. GitHub에 올리면 1~2분 뒤 사이트에 반영돼요.
+3. GitHub에 올리면 1분쯤 뒤 Vercel이 자동으로 반영해요.
    ```
    git add -A && git commit -m "새 작품: <제목>" && git push
    ```
