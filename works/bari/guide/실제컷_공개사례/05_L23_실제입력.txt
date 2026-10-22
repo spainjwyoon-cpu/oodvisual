@@ -1,0 +1,13 @@
+딸을 알아보는 아버지
+컷: BARI L23_01
+기록상 모델: Kling 3.0 Pro
+생성 길이: 15초
+장면 이미지: S12_03.png
+
+[한국어 풀이]
+이미 맞잡은 손을 유지한 채, 왕이 바리를 알아보는 눈빛과 호흡에 집중했어요. 왕비는 조용히 지켜봐요.
+
+[실제 입력 원문]
+BARI L23_01 - 15 seconds. Premium handcrafted Korean dancheong cloth-and-needle-felt puppet theatre. Use the supplied scene image as the composition and appearance authority for the opening: exact faces, age stages, hairstyles, all costumes, scale, fixed prop counts, fuzzy matte wool fibers and visible stitching. Attached C-version character elements preserve identity without changing the scene image's age, pose or outfit. One spatially continuous shot with smooth deliberate movement and no internal cuts or action resets. Keep all unmentioned people and objects still. No identity drift, extra limbs, duplicate fingers, sliding feet, melted materials, realistic skin, glossy plastic, new props, text, subtitles or watermark. Hold the awakened king and adult Bari in their existing hand contact. He recognizes her with a slow shift of his eyes and restrained emotion, while she holds his gaze. The queen watches quietly. One natural breath per figure; no new grasping, speech or repeated awakening. Natural diegetic wind, cloth, footsteps and relevant quiet object sounds only. No dialogue, singing, vocals or background music; original songs will be edited separately.
+
+계정별 인물 엘리먼트 ID가 포함된 첫 줄은 제외했습니다. 해당 참조는 내 계정에서 별도로 연결해야 합니다. 구두점은 배포용 표기에 맞춰 정리했습니다.

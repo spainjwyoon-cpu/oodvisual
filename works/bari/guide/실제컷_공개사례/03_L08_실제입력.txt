@@ -1,0 +1,13 @@
+문지기의 작은 반응
+컷: BARI L08_01
+기록상 모델: Kling 3.0 Pro
+생성 길이: 15초
+장면 이미지: S08_03.png
+
+[한국어 풀이]
+고개를 작게 끄덕이고 표정이 조금 달라지는 클로즈업이에요. 카메라는 천천히 다가간 뒤 멈춰요.
+
+[실제 입력 원문]
+BARI L08_01 - 15 seconds. Premium handcrafted Korean dancheong cloth-and-needle-felt puppet theatre. Use the supplied scene image as the composition and appearance authority for the opening: exact faces, age stages, hairstyles, all costumes, scale, fixed prop counts, fuzzy matte wool fibers and visible stitching. Attached C-version character elements preserve identity without changing the scene image's age, pose or outfit. One spatially continuous shot with smooth deliberate movement and no internal cuts or action resets. Keep all unmentioned people and objects still. No identity drift, extra limbs, duplicate fingers, sliding feet, melted materials, realistic skin, glossy plastic, new props, text, subtitles or watermark. In the approved close-up, the gatekeeper gives one small deliberate nod, followed by a restrained knowing smile in his eyebrows. His mouth stays relaxed and does not articulate imaginary lyrics. Keep his hands outside the crop and his beard fibers stable. Slow camera push then hold. Natural diegetic wind, cloth, footsteps and relevant quiet object sounds only. No dialogue, singing, vocals or background music; original songs will be edited separately.
+
+계정별 인물 엘리먼트 ID가 포함된 첫 줄은 제외했습니다. 해당 참조는 내 계정에서 별도로 연결해야 합니다. 구두점은 배포용 표기에 맞춰 정리했습니다.

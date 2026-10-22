@@ -1,0 +1,13 @@
+금빛 길에 남기는 여운
+컷: BARI L27_01
+기록상 모델: Kling 3.0 Pro
+생성 길이: 10초
+장면 이미지: S12_08.png
+
+[한국어 풀이]
+인물 없는 금빛 길을 따라 카메라가 천천히 나아가요. 풍경을 유지하고 끝에 제목을 넣을 여백을 남겼어요.
+
+[실제 입력 원문]
+BARI L27_01 - 10 seconds. Premium handcrafted Korean dancheong cloth-and-needle-felt puppet theatre. Use the supplied scene image as the composition and appearance authority for the opening: exact faces, age stages, hairstyles, all costumes, scale, fixed prop counts, fuzzy matte wool fibers and visible stitching. Attached C-version character elements preserve identity without changing the scene image's age, pose or outfit. One spatially continuous shot with smooth deliberate movement and no internal cuts or action resets. Keep all unmentioned people and objects still. No identity drift, extra limbs, duplicate fingers, sliding feet, melted materials, realistic skin, glossy plastic, new props, text, subtitles or watermark. Slowly drift forward along the existing gold cloth path at dawn. The embroidered mountain curtains remain open and all scenery stays rigid. Preserve the original empty-path composition without adding or removing people. Let wind move only fine free fibers and hold a stable sky space at the end for an editor-added title. No generated lettering, logo or credits. Natural diegetic wind, cloth, footsteps and relevant quiet object sounds only. No dialogue, singing, vocals or background music; original songs will be edited separately.
+
+계정별 인물 엘리먼트 ID가 포함된 첫 줄은 제외했습니다. 해당 참조는 내 계정에서 별도로 연결해야 합니다. 구두점은 배포용 표기에 맞춰 정리했습니다.
