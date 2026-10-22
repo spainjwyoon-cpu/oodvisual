@@ -17,8 +17,10 @@ window.WORKS = [
       "제작 가이드에는 이야기 정리부터 노래, 장면 이미지, 영상 생성, 편집까지의 흐름과, 대표 6컷의 장면 이미지와 실제 입력 프롬프트를 함께 실었어요. 처음이라면 한 장면을 끝까지 완성해보는 것부터 시작해보세요."
     ],
     tools: ["Suno", "Higgsfield · GPT Image", "Kling 3.0", "CapCut"],
+    video: "https://www.youtube.com/embed/Ya3MJo28cNY",
     links: [
       { label: "제작 가이드 보기", url: "works/bari/guide/", primary: true },
+      { label: "유튜브에서 보기", url: "https://youtu.be/Ya3MJo28cNY" },
       { label: "PDF 보기", url: "works/bari/guide/output/pdf/BARI_AI애니메이션_제작가이드_실제컷사례_v2.pdf" }
     ],
     gallery: [

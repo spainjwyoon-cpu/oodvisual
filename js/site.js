@@ -45,6 +45,7 @@
           return '<a class="btn' + (l.primary ? ' primary' : '') + '" href="' + esc(l.url) + '">' + esc(l.label) + '</a>';
         }).join("") + '</div>' +
       '</section>' +
+      (w.video ? '<section class="video wrap" style="padding-top:40px"><div class="ratio"><iframe src="' + esc(w.video) + '" title="' + esc(w.title) + '" allowfullscreen loading="lazy"></iframe></div></section>' : '') +
       '<section class="work-body wrap">' +
         '<div>' + (w.body || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join("") + '</div>' +
         (w.tools ? '<aside><h4>사용한 도구</h4><ul>' + w.tools.map(function (t) { return '<li>' + esc(t) + '</li>'; }).join("") + '</ul></aside>' : '') +
@@ -54,7 +55,6 @@
         return '<figure>' + (g.link ? '<a href="' + esc(g.link) + '">' + img + '</a>' : img) +
           (g.caption ? '<figcaption>' + esc(g.caption) + '</figcaption>' : '') + '</figure>';
       }).join("") + '</section>' : '') +
-      (w.video ? '<section class="video wrap"><div class="ratio"><iframe src="' + esc(w.video) + '" title="' + esc(w.title) + '" allowfullscreen loading="lazy"></iframe></div></section>' : '') +
       (works.length > 1 ? '<nav class="next wrap"><a href="work.html?id=' + encodeURIComponent(next.id) + '">다음 작품 · ' + esc(next.title) + ' →</a></nav>' : '');
   }
 })();
