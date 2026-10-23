@@ -5,7 +5,32 @@
 */
 window.WORKS = [
   {
-    id: "bari",                       // 주소에 쓰이는 영문 이름 (work.html?id=bari)
+    id: "millionbeat",
+    title: "밀리언 비트",
+    titleEn: "MILLION BEAT",
+    year: "2026",
+    type: "AI 아이돌 뮤직비디오 · 제작 가이드",
+    cover: "works/millionbeat/guide/assets/cover.jpg",
+    summary: "4인조 AI 아이돌의 데뷔곡 뮤직비디오. 멤버마다 자기만의 초현실 세계에서 등장하고, 네 세계가 꺼진 뒤에야 처음으로 한 무대에 서요.",
+    body: [
+      "〈Million Beat〉는 멤버 얼굴·의상·장소를 먼저 에셋으로 등록하고, 컷마다 원하는 앵글의 시작 프레임을 만든 뒤 Seedance로 움직임을 더해, 100BPM 박자 위에 엮은 AI 뮤직비디오예요.",
+      "제작 가이드에는 솔로 월드 기획, 에셋 등록, 시작 프레임으로 앵글 고정하기, 칸을 나눈 프롬프트 구조, 군무를 자연스럽게 보이게 하는 촬영법, 자주 나는 오류와 박자 편집까지 담았어요. 실제 컷 5개의 화면과 입력 프롬프트도 함께 실었어요."
+    ],
+    tools: ["Suno", "Higgsfield · GPT Image 2.5", "Nano Banana Pro", "Seedance 2.0"],
+    links: [
+      { label: "제작 가이드 보기", url: "works/millionbeat/guide/", primary: true }
+    ],
+    gallery: [
+      { src: "works/millionbeat/guide/assets/case_W06c.jpg", caption: "유리 조각을 튕기는 B", link: "works/millionbeat/guide/#case-w06c" },
+      { src: "works/millionbeat/guide/assets/case_W07a.jpg", caption: "세탁기 안에서 본 C", link: "works/millionbeat/guide/#case-w07a" },
+      { src: "works/millionbeat/guide/assets/case_S26.jpg", caption: "유리에 비친 D", link: "works/millionbeat/guide/#case-s26" },
+      { src: "works/millionbeat/guide/assets/case_S41.jpg", caption: "갈라지는 무대", link: "works/millionbeat/guide/#case-s41" },
+      { src: "works/millionbeat/guide/assets/case_DANCE2.jpg", caption: "네 세계를 잇는 군무", link: "works/millionbeat/guide/#case-dance2" },
+      { src: "works/millionbeat/guide/assets/case_S30.jpg", caption: "옥상 위 후렴", link: "works/millionbeat/guide/#camera" }
+    ]
+  },
+  {
+    id: "bari",                      // 주소에 쓰이는 영문 이름 (work.html?id=bari)
     title: "바리",
     titleEn: "BARI",
     year: "2026",
