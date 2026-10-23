@@ -25,7 +25,9 @@
         '<p>' + esc(w.type) + ' · ' + esc(w.year) + '</p></div></a>';
     }).join("");
     var hero = $("#hero-img");
-    if (hero && works[0]) { hero.src = works[0].cover; hero.alt = works[0].title; }
+    // 홈 배경: SITE.heroWork에 적은 작품, 없으면 맨 위 작품
+    var heroWork = works.filter(function (w) { return w.id === (window.SITE || {}).heroWork; })[0] || works[0];
+    if (hero && heroWork) { hero.src = heroWork.cover; hero.alt = heroWork.title; }
   }
 
   // 작품 상세

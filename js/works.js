@@ -61,6 +61,8 @@ window.WORKS = [
 
 window.SITE = {
   name: "ood.visual",
+  heroWork: "bari",                   // 홈 큰 배경으로 쓸 작품 id
+
   tagline: "Stories imagined, created with AI.",
   about: "AI를 활용해 다양한 이야기를 영상으로 만듭니다.\n드라마, 단편영화, 시네마틱 영상, 숏폼부터\n현실에는 없던 장면과 새로운 세계까지.",
   fields: "AI filmmaking · Short Films · Drama · Visual Stories",

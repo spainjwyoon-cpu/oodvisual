@@ -15,7 +15,7 @@
    git add -A && git commit -m "새 작품: <제목>" && git push
    ```
 
-맨 위에 둔 작품이 홈 첫 칸과 큰 배경 이미지가 돼요.
+맨 위에 둔 작품이 홈 첫 칸이 돼요. 홈 큰 배경은 `js/works.js`의 `window.SITE.heroWork`에 적은 작품(지금은 bari)이에요.
 소개 문구·이메일은 `js/works.js` 아래쪽 `window.SITE`에서 바꿔요.
 
 ## 주의
