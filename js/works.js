@@ -17,8 +17,10 @@ window.WORKS = [
       "제작 가이드에는 솔로 월드 기획, 에셋 등록, 시작 프레임으로 앵글 고정하기, 칸을 나눈 프롬프트 구조, 군무를 자연스럽게 보이게 하는 촬영법, 자주 나는 오류와 박자 편집까지 담았어요. 실제 컷 5개의 화면과 입력 프롬프트도 함께 실었어요."
     ],
     tools: ["Suno", "Higgsfield · GPT Image 2.5", "Nano Banana Pro", "Seedance 2.0"],
+    video: "https://www.youtube.com/embed/LHoCRsw10Dc",
     links: [
-      { label: "제작 가이드 보기", url: "works/millionbeat/guide/", primary: true }
+      { label: "제작 가이드 보기", url: "works/millionbeat/guide/", primary: true },
+      { label: "유튜브에서 보기", url: "https://youtu.be/LHoCRsw10Dc" }
     ],
     gallery: [
       { src: "works/millionbeat/guide/assets/case_W06c.jpg", caption: "유리 조각을 튕기는 B", link: "works/millionbeat/guide/#case-w06c" },
