@@ -5,6 +5,31 @@
 */
 window.WORKS = [
   {
+    id: "mute",
+    title: "뮤트",
+    titleEn: "MUTE",
+    year: "2026",
+    type: "AI 아이돌 뮤직비디오 · 제작 가이드",
+    cover: "works/mute/guide/assets/cover.jpg",
+    summary: "다른 사람의 평가와 소음을 끄고, 내가 고른 박자로 움직이는 네 사람. 평가실, 블랙 무대, 리허설 공간을 오가며 작은 동작 하나로 태도를 보여주는 VANTA의 뮤직비디오예요.",
+    body: [
+      "〈MUTE〉는 멤버 원본 사진을 얼굴 기준으로 고정하고, 24컷마다 시작 프레임을 먼저 만든 뒤 Kling으로 5~6초씩 움직임을 더해, Suno 원곡 위에 엮은 AI 뮤직비디오예요.",
+      "제작 가이드에는 세 공간 기획, 얼굴 기준 잡기, 시작 프레임, 시간으로 나눈 영상 프롬프트, 실제 끝 자세로 컷을 잇는 법, 자주 나는 오류와 편집까지 담았어요. 실제 컷 5개의 화면과 입력 프롬프트도 함께 실었어요."
+    ],
+    tools: ["Suno", "Codex 이미지 생성", "Higgsfield · Kling 4.0"],
+    links: [
+      { label: "제작 가이드 보기", url: "works/mute/guide/", primary: true }
+    ],
+    gallery: [
+      { src: "works/mute/guide/assets/case_02.jpg", caption: "소음을 멈추는 신호", link: "works/mute/guide/#case-02" },
+      { src: "works/mute/guide/assets/case_05.jpg", caption: "얼굴이 잘리지 않게 한 걸음", link: "works/mute/guide/#case-05" },
+      { src: "works/mute/guide/assets/set_B.jpg", caption: "블랙 무대", link: "works/mute/guide/#concept" },
+      { src: "works/mute/guide/assets/case_18.jpg", caption: "낮은 자세에서 일어나기", link: "works/mute/guide/#case-18" },
+      { src: "works/mute/guide/assets/set_C.jpg", caption: "리허설 공간", link: "works/mute/guide/#concept" },
+      { src: "works/mute/guide/assets/case_23.jpg", caption: "MUTE.", link: "works/mute/guide/#case-23" }
+    ]
+  },
+  {
     id: "millionbeat",
     title: "밀리언 비트",
     titleEn: "MILLION BEAT",
