@@ -17,8 +17,10 @@ window.WORKS = [
       "제작 가이드에는 세 공간 기획, 얼굴 기준 잡기, 시작 프레임, 시간으로 나눈 영상 프롬프트, 실제 끝 자세로 컷을 잇는 법, 자주 나는 오류와 편집까지 담았어요. 실제 컷 5개의 화면과 입력 프롬프트도 함께 실었어요."
     ],
     tools: ["Suno", "Codex 이미지 생성", "Higgsfield · Kling 4.0"],
+    video: "https://www.youtube.com/embed/hmc_PzLVQn4",
     links: [
-      { label: "제작 가이드 보기", url: "works/mute/guide/", primary: true }
+      { label: "제작 가이드 보기", url: "works/mute/guide/", primary: true },
+      { label: "유튜브에서 보기", url: "https://youtu.be/hmc_PzLVQn4" }
     ],
     gallery: [
       { src: "works/mute/guide/assets/case_02.jpg", caption: "소음을 멈추는 신호", link: "works/mute/guide/#case-02" },
