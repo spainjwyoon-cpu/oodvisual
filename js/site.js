@@ -11,6 +11,7 @@
     var k = el.getAttribute("data-site");
     if (k === "email") { el.textContent = site.email; el.href = "mailto:" + site.email; }
     else if (k === "youtube") { el.textContent = "YouTube " + site.handle; el.href = site.youtube; }
+    else if (k === "higgsfield") { if (site.higgsfield) el.href = site.higgsfield; }
     else el.textContent = site[k] || "";
   });
   var yr = $("#year"); if (yr) yr.textContent = new Date().getFullYear();

@@ -98,5 +98,6 @@ window.SITE = {
   motto: "조금 낯설고, 조금 아름다운 이야기들.\nOut Of the Ordinary.",
   handle: "@oodvisual",
   youtube: "https://www.youtube.com/@oodvisual",
+  higgsfield: "https://higgsfield.ai?fpr=jiwon-8fc62d",   // 홈 첫 화면 'Higgsfield 바로가기' 버튼 주소
   email: "oodvisual@gmail.com"
 };
