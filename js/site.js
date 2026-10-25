@@ -11,10 +11,19 @@
     var k = el.getAttribute("data-site");
     if (k === "email") { el.textContent = site.email; el.href = "mailto:" + site.email; }
     else if (k === "youtube") { el.textContent = "YouTube " + site.handle; el.href = site.youtube; }
-    else if (k === "higgsfield") { if (site.higgsfield) el.href = site.higgsfield; }
     else el.textContent = site[k] || "";
   });
   var yr = $("#year"); if (yr) yr.textContent = new Date().getFullYear();
+
+  // 홈: 주요 사용 프로그램 버튼 (SITE.tools)
+  var toolsList = $("#tools-list");
+  if (toolsList) {
+    var tools = site.tools || [];
+    if (!tools.length) $("#tools").hidden = true;
+    toolsList.innerHTML = tools.map(function (t) {
+      return '<a class="btn" href="' + esc(t.url) + '" target="_blank" rel="noopener' + (t.sponsored ? ' sponsored' : '') + '">' + esc(t.label) + ' ↗</a>';
+    }).join("");
+  }
 
   // 홈: 작품 그리드
   var grid = $("#works-grid");

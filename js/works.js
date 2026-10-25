@@ -98,6 +98,9 @@ window.SITE = {
   motto: "조금 낯설고, 조금 아름다운 이야기들.\nOut Of the Ordinary.",
   handle: "@oodvisual",
   youtube: "https://www.youtube.com/@oodvisual",
-  higgsfield: "https://higgsfield.ai?fpr=jiwon-8fc62d",   // 홈 첫 화면 'Higgsfield 바로가기' 버튼 주소
+  // 홈 'Tools · 주요 사용 프로그램' 버튼. 새 프로그램은 { label, url } 한 줄씩 추가 (추천인 링크면 sponsored: true)
+  tools: [
+    { label: "Higgsfield", url: "https://higgsfield.ai?fpr=jiwon-8fc62d", sponsored: true }
+  ],
   email: "oodvisual@gmail.com"
 };
